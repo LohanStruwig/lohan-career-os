@@ -9,7 +9,7 @@ last_updated: 2026-06-21
 
 # Metrics And Proof Points
 
-## Confirmed Public-Safe Proof Points
+## Confirmed Portfolio Proof Points
 
 - 15+ years of experience
 - Led six direct project leads
@@ -19,15 +19,15 @@ last_updated: 2026-06-21
 - Built CNC Intel Hub
 - Recorded approximately 500 commits in one month during CNC Intel Hub build activity
 
-## Claims To Avoid Unless More Evidence Is Added
+## Claims To Hold Until More Evidence Is Added
 
 - revenue impact not already documented
 - customer counts not already documented
 - cost savings not already documented
 - market share claims
 - named client claims without approval
-- confidential internal performance data
+- performance claims without a clear source
 
 ## Evidence Hygiene
 
-Every metric should have a source, date, and public-safety check before it becomes resume or portfolio language.
+Every metric should have a source, date, and relevance check before it becomes resume or portfolio language.

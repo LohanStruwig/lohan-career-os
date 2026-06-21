@@ -30,7 +30,7 @@ Do not present the commit count as a standalone vanity metric. Present it as par
 
 ## Future Evidence To Add
 
-- public screenshots with private data removed
+- selected screenshots prepared for portfolio use
 - architecture diagram
 - anonymized workflow map
 - feature chronology

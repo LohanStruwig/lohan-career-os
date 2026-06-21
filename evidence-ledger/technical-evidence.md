@@ -45,4 +45,4 @@ last_updated: 2026-06-21
 - eCommerce and voucher workflow thinking
 - dashboard, tracker, and risk register design
 - AI-assisted product development
-- public-safe architecture documentation
+- portfolio-level architecture documentation

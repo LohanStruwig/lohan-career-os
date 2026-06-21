@@ -9,9 +9,9 @@ last_updated: 2026-06-21
 
 # CNC Intel Hub Architecture Notes
 
-## Current Public-Level Architecture
+## Portfolio-Level Architecture
 
-This file should stay public-safe. Avoid internal credentials, database URLs, private schemas, customer lists, raw private data, or screenshots containing sensitive information.
+This file keeps the architecture discussion at product and workflow level. Detailed implementation records belong in the product workspace rather than the portfolio layer.
 
 ## Conceptual Components
 

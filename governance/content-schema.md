@@ -9,7 +9,7 @@ last_updated: 2026-06-21
 
 # Content Schema
 
-Most Markdown files in this repository use a small front matter block so they can later be parsed into a portfolio website, resume generator, case-study system, or content API.
+Most Markdown files in this repository use a small front matter block so they can later be parsed into a portfolio website, case-study system, executive profile builder, or content API.
 
 ## Standard Fields
 
@@ -29,11 +29,11 @@ The front matter can power:
 - portfolio cards
 - capability pages
 - case-study routing
-- resume snippet selection
+- executive profile snippet selection
 - role-family pages
 - searchable career evidence
-- public/private content filtering
+- portfolio publication status
 
 ## Rule
 
-If a file contains sensitive detail, do not mark it `visibility: public`. Keep sensitive files out of this public repository entirely.
+Use `visibility` to distinguish polished portfolio material from working notes if future content states are added.
