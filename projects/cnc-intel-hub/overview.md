@@ -11,20 +11,25 @@ last_updated: 2026-06-21
 
 ## Project Summary
 
-CNC Intel Hub is an early vertical CNC/VMC market-intelligence product developed through VentureLayer Labs. It is designed to support structured company review, dealer/customer context, evidence-backed research, saved views, and exportable planning outputs.
+CNC Intel Hub is a vertical SaaS-style CNC/VMC account-intelligence workspace developed through VentureLayer Labs. It is designed to support approved-access company review, territory context, dealer/customer fit, evidence-backed research, account scoring signals, saved filters, and exportable PDF account packets.
 
 ## Product Intent
 
-The product focuses on market-intelligence workflows for CNC/VMC contexts, including:
+The product focuses on account-intelligence workflows for CNC/VMC contexts, including:
 
 - company review
 - territory context
 - dealer/customer fit
 - evidence-backed company research
 - search and filter behavior
-- saved views
-- exportable planning packets
+- Evidence Score, VMC/customer fit, dealer Channel Fit, CNC/Automation relevance, confidence, caveats, validation status, and review priority
+- saved filters
+- browser-generated PDF account packets
 - reusable territory views
+- protected workspace access
+- Supabase auth/workspace/RLS planning
+- Python/PowerShell research and import tooling
+- GitHub/Vercel QA and release workflow
 
 ## Operating Evidence
 
@@ -39,6 +44,9 @@ During an intensive build cycle, the project recorded approximately 500 commits 
 - workflow design
 - B2B market intelligence
 - React/TypeScript/Vite product delivery
-- Supabase-backed data workflows
+- Supabase authentication and workspace-scoped data planning
+- PDF export/reporting design
+- Python research and scoring tooling
+- PowerShell validation and SQL governance workflows
 - Vercel deployment discipline
 - GitHub version-control cadence

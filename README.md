@@ -36,6 +36,7 @@ For technical reviewers:
 
 - [CNC Intel Hub Case Study](case-studies/cnc-intel-hub.md)
 - [CNC Intel Hub Architecture Notes](projects/cnc-intel-hub/architecture-notes.md)
+- [CNC Intel Hub Technical Stack Summary](projects/cnc-intel-hub/technical-stack-summary.md)
 - [Technical Fluency](master-cv/06-technical-fluency.md)
 - [Technical Evidence](evidence-ledger/technical-evidence.md)
 - [Workflow Systems Design](capability-blocks/workflow-systems-design.md)

@@ -62,6 +62,7 @@ Read first:
 - [Technical Fluency](../master-cv/06-technical-fluency.md)
 - [Technical Evidence](../evidence-ledger/technical-evidence.md)
 - [CNC Intel Hub Architecture Notes](../projects/cnc-intel-hub/architecture-notes.md)
+- [CNC Intel Hub Technical Stack Summary](../projects/cnc-intel-hub/technical-stack-summary.md)
 - [CNC Intel Hub Case Study](../case-studies/cnc-intel-hub.md)
 - [AI Tools And Agents](../skills/ai-tools-and-agents.md)
 

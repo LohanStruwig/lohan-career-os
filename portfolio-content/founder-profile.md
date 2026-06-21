@@ -25,9 +25,9 @@ This work required executive alignment, roadmap development, platform-readiness 
 
 ## Product And Technical-Commercial Execution
 
-VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical CNC/VMC market-intelligence product, reflects this product direction through company review, territory context, evidence-backed research, saved views, and exportable planning outputs.
+VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical SaaS-style CNC/VMC account-intelligence workspace, reflects this product direction through protected workspace access, company review, territory context, evidence-backed research, scoring signals, saved filters, PDF account packets, and governed release workflows.
 
-The practical stack includes React, TypeScript, Vite, Supabase, Vercel, GitHub, Python, PowerShell, PostgreSQL, AI-assisted workflow support, QA loops, and human approval gates.
+The practical stack includes React, TypeScript, Vite, Supabase auth/workspace planning, Vercel, GitHub PR workflow, pdf-lib, Python research tooling, PowerShell validation wrappers, PostgreSQL/SQL governance, AI-assisted workflow support, QA loops, and human approval gates.
 
 ## AI-Enabled Workflow Perspective
 

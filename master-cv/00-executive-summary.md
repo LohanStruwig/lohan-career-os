@@ -15,7 +15,7 @@ At Macmillan Education Southern Africa / Springer Nature Curriculum, led regiona
 
 Known for turning ambiguity into roadmaps, decision frameworks, QA loops, stakeholder handoffs, and customer-ready operating models across executive, regional, product, publishing, finance/legal, customer-service, and technology partners.
 
-Current VentureLayer Labs work adds hands-on product ownership through CNC Intel Hub and governed AI-assisted development workflows.
+Current VentureLayer Labs work adds hands-on product ownership through CNC Intel Hub, a vertical CNC/VMC account-intelligence workspace with protected access planning, scoring signals, saved filters, PDF account packets, research tooling, and governed AI-assisted development workflows.
 
 ## Quick Proof
 
@@ -24,5 +24,5 @@ Current VentureLayer Labs work adds hands-on product ownership through CNC Intel
 - Trained approximately 14 EXCO/executive stakeholders on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing
 - Founded VentureLayer Digital LLC
 - Built VentureLayer Labs as an internal product-development/product-studio function
-- Directed CNC Intel Hub as an early vertical CNC/VMC market-intelligence product
+- Directed CNC Intel Hub as a vertical CNC/VMC account-intelligence workspace
 - Recorded approximately 500 commits in one month during an intensive CNC Intel Hub build cycle

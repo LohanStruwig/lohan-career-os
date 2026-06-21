@@ -73,7 +73,7 @@ Selected proof themes:
 - direct team leadership and cross-functional governance
 - executive AI enablement
 - B2B industrial market experience
-- CNC Intel Hub product development
+- CNC Intel Hub account-intelligence workspace development
 - GitHub-based delivery discipline
 - structured QA and human approval gates
 

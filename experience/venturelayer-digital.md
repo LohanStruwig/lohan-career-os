@@ -21,15 +21,15 @@ United States
 
 Founded VentureLayer Digital LLC as a digital product entity and established VentureLayer Labs as the internal product-development and product-studio function.
 
-Current work focuses on productized digital systems, market-intelligence workflows, AI-assisted product development, and governed client workspace design.
+Current work focuses on productized digital systems, market-intelligence workflows, AI-assisted product development, account-intelligence workspaces, and governed client workspace design.
 
 ## Product Focus
 
-VentureLayer Labs directs CNC Intel Hub as an early vertical CNC/VMC market-intelligence product designed to support territory review, dealer/customer context, evidence-backed company research, saved views, and exportable planning outputs.
+VentureLayer Labs directs CNC Intel Hub as a vertical SaaS-style CNC/VMC account-intelligence workspace designed to support approved-access territory review, dealer/customer context, evidence-backed company research, scoring signals, saved filters, and exportable PDF account packets.
 
 ## Builder-Operator Work
 
-- defines product scope around focused market-intelligence workflows
+- defines product scope around focused account-intelligence workflows
 - guides product strategy and workflow definition
 - manages feature prioritization and QA review
 - applies deployment discipline and client-readiness decisions
@@ -38,7 +38,7 @@ VentureLayer Labs directs CNC Intel Hub as an early vertical CNC/VMC market-inte
 
 ## Technical And Operating Stack
 
-React, TypeScript, Vite, Supabase, Vercel, GitHub, pdf-lib, Python, PowerShell, SQL governance, deployment QA, and AI-assisted development workflows.
+React, TypeScript, Vite, Supabase auth/workspace planning, Vercel, GitHub PR workflow, pdf-lib, Python research tooling, PowerShell validation wrappers, SQL/import governance, deployment QA, and AI-assisted development workflows.
 
 ## Reusable Resume Angle
 

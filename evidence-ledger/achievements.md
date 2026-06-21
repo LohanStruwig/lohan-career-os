@@ -29,5 +29,5 @@ last_updated: 2026-06-21
 
 - Founded VentureLayer Digital LLC.
 - Established VentureLayer Labs.
-- Directed CNC Intel Hub as a vertical CNC/VMC market-intelligence product.
+- Directed CNC Intel Hub as a vertical CNC/VMC account-intelligence workspace with protected access planning, scoring signals, saved filters, PDF account packets, research tooling, and GitHub/Vercel delivery discipline.
 - Recorded approximately 500 commits in one month during an intensive CNC Intel Hub build cycle.

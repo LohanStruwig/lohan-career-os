@@ -28,6 +28,10 @@ Do not present the commit count as a standalone vanity metric. Present it as par
 
 > Built and iterated a vertical CNC/VMC market-intelligence workspace through an intensive product-development cycle, recording approximately 500 commits in one month while refining product workflows, data handling, saved views, QA behavior, and export-ready planning outputs.
 
+## Architecture Framing
+
+The commit cadence should be read alongside the breadth of the product: private workspace access, account-intelligence UI, scoring signals, saved filters, PDF account packets, Supabase workspace planning, Python research tooling, PowerShell validation wrappers, SQL/import governance, GitHub PR workflow, Vercel preview/production deployment, and governed AI-assisted development.
+
 ## Future Evidence To Add
 
 - selected screenshots prepared for portfolio use

@@ -23,4 +23,4 @@ AI enablement leader with experience translating LLMs, AI agents, workflow autom
 
 ## Founder-Operator Summary
 
-Founder/operator of VentureLayer Digital LLC and VentureLayer Labs, building productized digital systems, market-intelligence workflows, AI-assisted product development practices, and governed client workspace models.
+Founder/operator of VentureLayer Digital LLC and VentureLayer Labs, building productized digital systems, vertical account-intelligence workflows, AI-assisted product development practices, and governed client workspace models.
