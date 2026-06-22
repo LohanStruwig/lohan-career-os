@@ -1,8 +1,15 @@
 # Lohan Struwig Career OS
 
-Curated professional portfolio system for Lohan Struwig.
+Public-safe career and portfolio operating system for Lohan Struwig.
 
-This repository organizes public-safe career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material. It is designed to make the professional story easier to review without turning the repo into a raw personal archive.
+This repository organizes career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material into a structured public proof layer. It is designed for quick professional review without turning the repo into a raw personal archive.
+
+Best first reads:
+
+- [Career Profile](career-profile.md) for the concise professional summary.
+- [CNC Intel Hub Case Study](case-studies/cnc-intel-hub.md) for founder-led product proof.
+- [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md) for the VentureLayer public story.
+- [Publication Boundary](docs/publication-boundary.md) for what stays public and what does not.
 
 Public links:
 
@@ -18,7 +25,7 @@ The current public story connects executive transformation experience with found
 
 ## Start Here
 
-For a quick review:
+For a structured review:
 
 - [Career Profile](career-profile.md)
 - [Founder Profile](portfolio-content/founder-profile.md)
@@ -68,6 +75,10 @@ The repository is meant to show a repeatable professional pattern:
 - using AI-assisted workflow design with human review and governance;
 - building public-safe proof surfaces from selected project history;
 - linking VentureLayer Digital credibility with practical transformation experience.
+
+## Public Review Notes
+
+This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content. Deeper folders exist to keep the source material organized, but they should be treated as reviewed reference material rather than a general archive.
 
 ## Publication Boundary
 
