@@ -21,7 +21,7 @@ Southern Africa
 
 Led regional digital operations and transformation for Macmillan Education Southern Africa during a strategic shift from print-centered publishing toward digital education models, platform workflows, eBook access, teacher professional development, digital content operations, and data-informed business models.
 
-Served as a strategic bridge between regional EXCO, country and market leadership, publishing, sales, marketing, customer service, finance, legal, global digital teams, technology partners, and education stakeholders.
+Served as a strategic bridge between regional leadership, country and market leadership, publishing, sales, marketing, customer service, finance, legal, global digital teams, technology partners, and education stakeholders.
 
 ## Scope
 
@@ -55,7 +55,7 @@ Served as a strategic bridge between regional EXCO, country and market leadershi
 
 ## AI Enablement
 
-Initiated AI awareness and enablement work for approximately 14 EXCO/executive stakeholders, covering AI concepts, LLMs, AI agents, disruption scenarios, and the potential impact of AI on education publishing and digital learning workflows.
+Initiated AI awareness and enablement work for executive and senior stakeholders, covering AI concepts, LLMs, AI agents, adoption scenarios, and the potential impact of AI on education publishing and digital learning workflows.
 
 ## Reusable Resume Angle
 

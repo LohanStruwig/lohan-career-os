@@ -36,7 +36,7 @@ Lohan served as Regional Head of Digital Operations, leading a direct team of si
 The approach combined transformation strategy with operating discipline:
 
 - develop and refine regional digital roadmap work
-- create EXCO-facing decision materials
+- create executive-facing decision materials
 - define business-case classification logic
 - build workstream structures and implementation inputs
 - improve portfolio visibility through templates, dashboards, trackers, and risk registers

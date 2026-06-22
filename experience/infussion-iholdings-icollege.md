@@ -19,13 +19,13 @@ South Africa
 
 ## Summary
 
-Built digital marketing, web, application capture, insurance workflow, student inquiry, and call-center handoff systems across Infussion group entities, including iCollege-related workflows.
+Built digital marketing, web, application capture, application workflow, student inquiry, and call-center handoff systems across Infussion group entities, including iCollege-related workflows.
 
 This period provides the foundation for later product/platform operations, workflow design, data-backed capture, and digital operating model work.
 
 ## Core Work
 
-- built web-based insurance application and call-center workflow systems
+- built web-based application and call-center workflow systems
 - connected digital campaigns, social response, application capture, PostgreSQL workflows, call-center handoff, and enrollment support
 - created and managed web systems, online forms, data capture flows, content structures, and operational handoffs
 - combined SEO, SEM, digital marketing, web development, data-backed workflow design, and operational training

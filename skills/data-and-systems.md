@@ -18,7 +18,7 @@ last_updated: 2026-06-21
 - dashboards
 - KPI and metric thinking
 - data privacy and governance
-- evidence scoring
+- evidence review
 - saved views
 - exportable planning outputs
 - feedback loops

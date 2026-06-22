@@ -9,22 +9,22 @@ last_updated: 2026-06-21
 
 # CNC Intel Hub Technical Stack Summary
 
-CNC Intel Hub should be understood as a vertical SaaS-style account-intelligence workspace for CNC/VMC market intelligence, not as a simple marketing website or static application.
+CNC Intel Hub should be understood as a vertical SaaS-style market/account research workspace for CNC/VMC market intelligence, not as a simple marketing website or static application.
 
-The public landing page is only one surface. The more important product work is the private workspace model: approved-access account intelligence, structured company review, market-fit signals, saved filters, exportable account packets, research tooling, data governance, and release discipline.
+The public landing page is only one surface. The more important product work is the governed workspace model: approved-access structured research, structured company review, market-fit signals, saved filters, exportable review packets, research tooling, data governance, and release discipline.
 
 ## Product Architecture
 
 CNC Intel Hub is designed to help approved client teams review territories, dealers, customers, potential customers, and potential dealer candidates in a structured workspace.
 
-The product is not positioned as a CRM or CMS. It focuses on account intelligence:
+The product is not positioned as a CRM or CMS. It focuses on structured market/account research:
 
 - filtering company records
 - reviewing company cards and detail panels
 - checking evidence and fit signals
 - understanding Evidence Score, VMC/customer fit, dealer Channel Fit, CNC/Automation relevance, caveats, validation status, confidence, and review priority
 - saving useful views
-- exporting PDF account packets for internal planning and handoff
+- exporting PDF review packets for planning and handoff
 
 ## Frontend Application
 
@@ -39,10 +39,10 @@ The online application is built as a Vite React application using:
 The frontend includes:
 
 - public landing page
-- protected workspace request/contact page
+- access-controlled workspace request/contact page
 - workspace login/access screens
 - workspace selector
-- private workspace explorer interface
+- governed workspace explorer interface
 - company cards
 - focused detail panels
 - filters and search
@@ -51,7 +51,7 @@ The frontend includes:
 - saved filters
 - PDF export controls
 - local URL/session state
-- protected workspace access states
+- access-controlled workspace access states
 
 ## Backend And Contact API
 
@@ -93,7 +93,7 @@ The security model is planned around `workspace_id`, membership checks, and Row 
 
 CNC Intel Hub uses `pdf-lib` for browser-generated PDF exports.
 
-The export flow supports professional A4 account packets with:
+The export flow supports professional A4 review packets with:
 
 - cover page
 - one company page per company
@@ -125,7 +125,7 @@ Supabase-backed saved filters are a planned improvement that requires migration 
 
 ## Research, Data, And Import Tooling
 
-Python is used heavily for local data preparation, research automation, scoring, import previews, diagnostics, and workbook/feed preparation.
+Python is used heavily for local data preparation, research automation, evidence review, import previews, diagnostics, and workbook/feed preparation.
 
 The tooling supports:
 
@@ -136,10 +136,10 @@ The tooling supports:
 - running research review flows
 - building dashboard-ready outputs
 - creating territory planning packs
-- applying scoring refinements
+- applying review-model refinements
 - preparing Supabase import packages
 - building import previews
-- running company intelligence scoring dry runs
+- running company research review-model validation
 
 PowerShell supports local workflow automation and guarded SQL execution wrappers, including validation commands, SQL package preflight scripts, and controlled connection handling when explicitly approved.
 
@@ -176,7 +176,7 @@ The QA and release workflow includes:
 - Vercel preview QA
 - browser testing
 - console error checks
-- protected-data access checks
+- access-controlled workspace checks
 - anonymous logout/deep-link safety checks
 - PDF export behavior checks
 - saved filter behavior checks
@@ -190,6 +190,6 @@ The AI workflow is governed by explicit product scope, data safety, git, deploym
 
 ## Portfolio Summary
 
-CNC Intel Hub combines frontend engineering, protected workspace access, account-intelligence data modeling, scoring logic, PDF reporting, research automation, Supabase workspace planning, Vercel deployment, GitHub PR workflow, and governed AI-assisted development.
+CNC Intel Hub combines frontend engineering, access-controlled workspace access, market/account research data modeling, review signals, PDF reporting, research automation, Supabase workspace planning, Vercel deployment, GitHub PR workflow, and governed AI-assisted development.
 
 The business goal is to help CNC/VMC sales and leadership teams review the right accounts faster, understand why each company matters, validate evidence before action, and produce clean internal handoff materials without turning the product into an overly complex CRM.

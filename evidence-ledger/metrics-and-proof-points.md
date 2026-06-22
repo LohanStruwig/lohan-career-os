@@ -13,7 +13,7 @@ last_updated: 2026-06-21
 
 - 15+ years of experience
 - Led six direct project leads
-- Trained approximately 14 EXCO/executive stakeholders on AI
+- Trained senior executive stakeholders on AI
 - Founded VentureLayer Digital LLC
 - Built VentureLayer Labs
 - Built CNC Intel Hub

@@ -17,8 +17,8 @@ last_updated: 2026-06-21
 
 ## Executive Leadership Support
 
-- Built EXCO-facing roadmap and decision materials.
-- Trained approximately 14 EXCO/executive stakeholders on AI and disruption scenarios.
+- Built executive-facing roadmap and decision materials.
+- Trained senior executive stakeholders on AI and adoption scenarios.
 - Translated digital ambiguity into practical leadership choices.
 
 ## Cross-Functional Leadership

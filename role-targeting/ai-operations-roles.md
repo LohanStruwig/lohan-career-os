@@ -15,7 +15,7 @@ AI enablement and operations leader who combines executive AI awareness, human-i
 
 ## Strong Evidence
 
-- trained approximately 14 EXCO/executive stakeholders on AI
+- trained executive and senior stakeholders on AI
 - works with AI-assisted product development in VentureLayer Labs
 - uses human approval gates, QA loops, and data governance
 - understands LLMs, AI agents, workflow orchestration, and practical adoption constraints

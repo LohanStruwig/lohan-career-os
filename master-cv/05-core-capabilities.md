@@ -31,4 +31,4 @@ Commercial and market intelligence across B2B systems, territory planning, sales
 
 ## Cross-Functional Leadership
 
-Cross-functional leadership across EXCO, product, publishing, finance/legal, customer service, sales, marketing, vendors, data governance, reporting, dashboards, KPIs, and metrics.
+Cross-functional leadership across executive leadership, product, publishing, finance/legal, customer service, sales, marketing, vendors, data governance, reporting, dashboards, KPIs, and metrics.

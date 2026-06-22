@@ -15,9 +15,9 @@ Practical AI enablement across executive awareness, LLM concepts, AI agents, wor
 
 ## Evidence
 
-- Trained approximately 14 EXCO/executive stakeholders on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing.
+- Delivered executive AI awareness work on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing.
 - Explored AI-assisted content and animation workflow opportunities for digital learning materials.
-- Uses AI-assisted planning and implementation support in VentureLayer Labs with human approval gates for product direction, QA, data governance, and client data protection.
+- Uses AI-assisted planning and implementation support in VentureLayer Labs with human approval gates for product direction, QA, data governance, and information-handling boundaries.
 - Applies AI tooling across product development, workflow design, research, documentation, and quality review.
 
 ## Reusable Resume Language

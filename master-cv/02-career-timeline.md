@@ -47,7 +47,7 @@ Delivered digital banking platform readiness, UX/UI, front-end coordination, sta
 
 Head of Digital Marketing
 
-Built digital marketing, web, application capture, insurance workflow, student inquiry, and call-center handoff systems across group entities and iCollege-related workflows.
+Built digital marketing, web, application capture, student inquiry, and call-center handoff systems across group entities and iCollege-related workflows.
 
 ## June 2009 - December 2010; selected project work continued thereafter
 

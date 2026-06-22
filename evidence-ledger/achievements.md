@@ -22,12 +22,12 @@ last_updated: 2026-06-21
 
 ## Executive Enablement
 
-- Created EXCO-facing roadmap materials, business-case classification logic, opportunity prioritization templates, workstream structures, implementation inputs, and decision frameworks.
-- Trained approximately 14 EXCO/executive stakeholders on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing.
+- Created executive-facing roadmap materials, business-case classification logic, opportunity prioritization templates, workstream structures, implementation inputs, and decision frameworks.
+- Trained senior executive stakeholders on AI, LLMs, AI agents, adoption scenarios, and implications for education publishing.
 
 ## Founder / Product
 
 - Founded VentureLayer Digital LLC.
 - Established VentureLayer Labs.
-- Directed CNC Intel Hub as a vertical CNC/VMC account-intelligence workspace with protected access planning, scoring signals, saved filters, PDF account packets, research tooling, and GitHub/Vercel delivery discipline.
+- Directed CNC Intel Hub as a vertical CNC/VMC market/account research workspace with governed access planning, review signals, saved filters, PDF review packets, research tooling, and GitHub/Vercel delivery discipline.
 - Recorded approximately 500 commits in one month during an intensive CNC Intel Hub build cycle.

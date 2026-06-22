@@ -11,14 +11,14 @@ last_updated: 2026-06-21
 
 ## Summary
 
-Initiated executive AI awareness and enablement work for approximately 14 EXCO/executive stakeholders, covering AI concepts, LLMs, AI agents, disruption scenarios, and practical implications for education publishing and digital workflow design.
+Initiated executive AI awareness and enablement work for executive and senior stakeholders, covering AI concepts, LLMs, AI agents, adoption scenarios, and practical implications for education publishing and digital workflow design.
 
 ## Topics Covered
 
 - AI concepts
 - LLMs
 - AI agents
-- disruption scenarios
+- adoption scenarios
 - education publishing implications
 - digital learning workflow implications
 - responsible adoption boundaries
@@ -26,4 +26,4 @@ Initiated executive AI awareness and enablement work for approximately 14 EXCO/e
 
 ## Reusable Resume Language
 
-Trained approximately 14 EXCO/executive stakeholders on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing, helping leadership connect emerging AI capability to practical workflow, product, and operating-model questions.
+Trained executive and senior stakeholders on AI, LLMs, AI agents, adoption scenarios, and implications for education publishing, helping leadership connect emerging AI capability to practical workflow, product, and operating-model questions.

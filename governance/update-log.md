@@ -13,16 +13,16 @@ last_updated: 2026-06-21
 
 ### CNC Intel Hub Architecture Repositioning
 
-Updated CNC Intel Hub materials so the product is represented as a vertical SaaS-style account-intelligence workspace rather than a simple website or generic dashboard.
+Updated CNC Intel Hub materials so the product is represented as a vertical SaaS-style market/account research workspace rather than a simple website or generic dashboard.
 
 Added and refined:
 
 - CNC Intel Hub technical stack summary
-- protected workspace and approved-access product framing
+- governed workspace and approved-access product framing
 - Supabase auth/workspace/RLS planning language
-- Evidence Score, VMC/customer fit, Channel Fit, CNC/Automation relevance, confidence, caveats, validation status, and review priority signals
-- saved filters and browser-generated PDF account packet language
-- Python research/scoring/import tooling and PowerShell validation wrapper language
+- Evidence Review, VMC/customer fit, Channel Fit, CNC/Automation relevance, confidence, caveats, validation status, and review priority signals
+- saved filters and browser-generated PDF review packet language
+- Python research/review/import tooling and PowerShell validation wrapper language
 - SQL/import governance and GitHub/Vercel QA/release workflow language
 - resume and portfolio blocks that distinguish CNC Intel Hub's SaaS-style product architecture from VentureLayer Digital's founder-led studio positioning
 

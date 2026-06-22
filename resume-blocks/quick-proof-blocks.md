@@ -11,11 +11,11 @@ last_updated: 2026-06-21
 
 ## Compact Version
 
-15+ years | Led 6 project leads | Trained approx. 14 EXCO/executive stakeholders | Founded VentureLayer Digital LLC | Built CNC Intel Hub
+15+ years | Led 6 project leads | Trained senior executive stakeholders | Founded VentureLayer Digital LLC | Built CNC Intel Hub
 
 ## Expanded Version
 
-15+ years of digital transformation, product/platform operations, EdTech, digital publishing, AI enablement, and B2B digital systems experience. Led six project leads, trained approximately 14 EXCO/executive stakeholders on AI, founded VentureLayer Digital LLC, and built CNC Intel Hub through VentureLayer Labs.
+15+ years of digital transformation, product/platform operations, EdTech, digital publishing, AI enablement, and B2B digital systems experience. Led six project leads, trained senior executive stakeholders on AI, founded VentureLayer Digital LLC, and built CNC Intel Hub through VentureLayer Labs.
 
 ## Product Builder Version
 

@@ -17,7 +17,7 @@ Workflow systems design that clarifies how work moves through teams, tools, data
 
 - Built trackers, dashboards, risk registers, templates, workstreams, delivery flows, QA checkpoints, and stakeholder communication structures.
 - Designed a hybrid waterfall-agile operating model for the regional digital department.
-- Built early web-based insurance application and call-center workflow systems.
+- Built early web-based application and call-center workflow systems.
 - Connects GitHub, AI-assisted workflows, deployment QA, data governance, and human approval gates in VentureLayer Labs.
 
 ## Reusable Resume Language

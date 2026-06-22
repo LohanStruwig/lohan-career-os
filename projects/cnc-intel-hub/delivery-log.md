@@ -30,7 +30,7 @@ Do not present the commit count as a standalone vanity metric. Present it as par
 
 ## Architecture Framing
 
-The commit cadence should be read alongside the breadth of the product: private workspace access, account-intelligence UI, scoring signals, saved filters, PDF account packets, Supabase workspace planning, Python research tooling, PowerShell validation wrappers, SQL/import governance, GitHub PR workflow, Vercel preview/production deployment, and governed AI-assisted development.
+The commit cadence should be read alongside the breadth of the product: governed workspace access, market/account research UI, review signals, saved filters, PDF review packets, Supabase workspace planning, Python research tooling, PowerShell validation wrappers, SQL/import governance, GitHub PR workflow, Vercel preview/production deployment, and governed AI-assisted development.
 
 ## Future Evidence To Add
 

@@ -11,14 +11,14 @@ last_updated: 2026-06-21
 
 ## Capability Statement
 
-B2B market intelligence across company research, territory planning, dealer/customer context, commercial workflows, sales enablement, evidence-backed review, and exportable planning outputs.
+B2B market intelligence across structured company research, territory planning, dealer/customer context, commercial workflows, sales enablement, public-safe account review, and exportable planning outputs.
 
 ## Evidence
 
 - Built industrial market fluency through SMEC Projects Africa across CNC machine tools, automation, retrofitting, tooling, consumables, and turnkey manufacturing solutions.
-- Directs CNC Intel Hub as a vertical CNC/VMC account-intelligence workspace.
-- Translates CNC/VMC market context into workflows for company review, evidence scoring, channel/customer fit, search/filter behavior, saved filters, PDF account packets, and reusable territory views.
+- Directs CNC Intel Hub as a vertical CNC/VMC market research and account review workspace.
+- Translates CNC/VMC market context into workflows for company review, public evidence review, channel/customer fit, search/filter behavior, saved filters, exportable account review packets, and reusable territory views.
 
 ## Reusable Resume Language
 
-Built and productized B2B market-intelligence workflows that connect company research, territory context, evidence scoring, channel fit, saved filters, and exportable account packets for industrial market use cases.
+Built B2B market research workflows that connect company research, territory context, public evidence review, channel fit, saved filters, and exportable account review packets for industrial market use cases.

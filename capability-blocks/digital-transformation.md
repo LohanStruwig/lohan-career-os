@@ -17,7 +17,7 @@ Digital transformation leadership focused on turning strategic uncertainty into 
 
 - Led regional digital transformation for Macmillan Education Southern Africa / Springer Nature Curriculum.
 - Helped shift the region from print-centered publishing toward platform, eBook, LMS, voucher, eCommerce, teacher-development, and content-readiness models.
-- Created EXCO-facing roadmap materials, business-case classification logic, opportunity prioritization templates, workstream structures, and implementation inputs.
+- Created executive-facing roadmap materials, business-case classification logic, opportunity prioritization templates, workstream structures, and implementation inputs.
 - Reframed digital ownership as a shared business model across leadership, publishing, sales, finance, legal, operations, and platform teams.
 
 ## Reusable Resume Language

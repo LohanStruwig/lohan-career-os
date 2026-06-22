@@ -13,7 +13,7 @@ VentureLayer Digital is a founder-led digital product and transformation studio 
 
 ## What VentureLayer Focuses On
 
-VentureLayer is built around frontier digital systems that help convert fragmented information, workflows, evidence, and business context into usable product and operating layers.
+VentureLayer is built around practical digital systems that help convert fragmented information, workflows, and business context into usable product and operating layers.
 
 Core focus areas:
 
@@ -24,7 +24,7 @@ Core focus areas:
 - technical-commercial execution
 - founder-led product capability
 - data-informed decision support
-- selected project evidence and portfolio systems
+- selected portfolio proof systems
 
 ## Why The Founder Background Matters
 
@@ -43,7 +43,7 @@ Relevant problem spaces include:
 - AI-enabled internal workflows
 - product readiness and launch governance
 - digital transformation operating models
-- structured research and evidence systems
+- structured research systems
 - productized service workflows
 - executive decision-support materials
 - B2B technical-commercial positioning
@@ -73,10 +73,10 @@ Selected proof themes:
 - direct team leadership and cross-functional governance
 - executive AI enablement
 - B2B industrial market experience
-- CNC Intel Hub account-intelligence workspace development
+- CNC Intel Hub account-review workspace development
 - GitHub-based delivery discipline
 - structured QA and human approval gates
 
 ## Public Portfolio Role
 
-This repository supports VentureLayer's public credibility layer. It organizes selected project evidence, founder profile content, capability blocks, technical fluency, and case studies into a structured source that can later become polished website pages, proposal content, and client-facing proof.
+This repository supports VentureLayer's public credibility layer. It organizes selected portfolio proof, founder profile content, capability blocks, technical fluency, and case studies into a structured source that can later become polished website pages, proposal content, and client-facing proof.

@@ -25,4 +25,4 @@ last_updated: 2026-06-21
 
 ## Product Usage
 
-Used across VentureLayer Labs and CNC Intel Hub for product workflow definition, private workspace interface delivery, account-intelligence review, PDF export workflows, deployment QA, and governed client workspace design.
+Used across VentureLayer Labs and CNC Intel Hub for product workflow definition, access-controlled workspace interface delivery, structured research review, PDF export workflows, deployment QA, and governed client workspace design.

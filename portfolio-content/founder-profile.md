@@ -21,11 +21,11 @@ Through VentureLayer Digital, Lohan connects executive transformation experience
 
 At Macmillan Education Southern Africa / Springer Nature Curriculum, Lohan led regional digital operations through a shift from print-centered publishing toward platform, eBook, LMS, voucher, eCommerce, teacher-development, and content-readiness models.
 
-This work required executive alignment, roadmap development, platform-readiness thinking, customer-support handoff, content workflow coordination, data and reporting readiness, QA governance, and cross-functional execution across publishing, product, sales, marketing, finance/legal, customer service, regional leadership, and technology partners.
+This work required executive alignment, roadmap development, platform-readiness thinking, customer-support handoff, content workflow coordination, data and reporting readiness, QA governance, and cross-functional execution across publishing, product, sales, marketing, commercial/legal, customer service, regional leadership, and technology partners.
 
 ## Product And Technical-Commercial Execution
 
-VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical SaaS-style CNC/VMC account-intelligence workspace, reflects this product direction through protected workspace access, company review, territory context, evidence-backed research, scoring signals, saved filters, PDF account packets, and governed release workflows.
+VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical SaaS-style CNC/VMC account-review workspace, reflects this product direction through workspace access, company review, territory context, public-safe research, review signals, saved filters, PDF review packets, and governed release workflows.
 
 The practical stack includes React, TypeScript, Vite, Supabase auth/workspace planning, Vercel, GitHub PR workflow, pdf-lib, Python research tooling, PowerShell validation wrappers, PostgreSQL/SQL governance, AI-assisted workflow support, QA loops, and human approval gates.
 
@@ -33,7 +33,7 @@ The practical stack includes React, TypeScript, Vite, Supabase auth/workspace pl
 
 Lohan approaches AI as an operating capability rather than a shortcut. His work combines AI awareness, LLMs, AI agents, prompt systems, workflow orchestration, responsible adoption boundaries, and human-in-the-loop governance.
 
-He has trained approximately 14 EXCO/executive stakeholders on AI, LLMs, AI agents, disruption scenarios, and implications for education publishing and digital workflow design.
+He has trained executive stakeholders on AI, LLMs, AI agents, adoption scenarios, and implications for education publishing and digital workflow design.
 
 ## What Clients And Partners Can Expect
 

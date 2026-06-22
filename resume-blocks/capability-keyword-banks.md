@@ -27,4 +27,4 @@ EdTech, digital publishing, LMS, eBooks, MEE, MOTC, teacher professional develop
 
 ## B2B Market Intelligence
 
-B2B systems, market intelligence, territory planning, sales enablement, company research, dealer/customer context, channel fit, evidence scoring, exportable planning outputs.
+B2B systems, market intelligence, territory planning, sales enablement, company research, dealer/customer context, channel fit, evidence review, exportable planning outputs.

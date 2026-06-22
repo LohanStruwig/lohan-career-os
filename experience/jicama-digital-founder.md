@@ -26,7 +26,7 @@ Founded Jicama Digital while studying and delivered early client-facing digital 
 - built commercially useful websites, digital forms, content structures, and early workflow systems
 - developed client scoping and delivery discipline
 - handled stakeholder communication and practical technical problem-solving
-- built an early founder/operator foundation later carried into fintech product readiness, industrial B2B commercialization, regional EdTech transformation, and VentureLayer product work
+- built an early founder/operator foundation later carried into product readiness, industrial B2B commercialization, regional EdTech transformation, and VentureLayer product work
 
 ## Reusable Resume Angle
 

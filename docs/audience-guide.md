@@ -40,7 +40,7 @@ Questions this helps answer:
 
 ## Professional Review
 
-Professional reviewers want a clear executive profile, role fit, selected achievements, and evidence of both strategic and technical-commercial capability.
+Professional reviewers want a clear executive profile, selected achievements, and evidence of both strategic and technical-commercial capability.
 
 Read first:
 
@@ -52,14 +52,14 @@ Read first:
 
 Questions this helps answer:
 
-- Which senior roles or professional conversations does Lohan fit?
+- Which senior professional conversations does Lohan fit?
 - What transformation, product operations, platform operations, AI enablement, and EdTech evidence supports the positioning?
 - How does the founder/operator layer strengthen the executive profile?
-- What proof points can support a focused hiring conversation?
+- What proof points can support a focused professional conversation?
 
 Best use:
 
-Use these sections to understand role fit, executive positioning, and the evidence behind the transformation/product/platform narrative. Treat deeper source folders as review material, not as copy-ready public text.
+Use these sections to understand executive positioning and the evidence behind the transformation/product/platform narrative. Treat deeper source folders as review material, not as copy-ready public text.
 
 ## Technical Reviewers
 

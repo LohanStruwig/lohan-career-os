@@ -15,7 +15,7 @@ Strategy and operations leader who helps executives convert ambiguity into prior
 
 ## Strong Evidence
 
-- EXCO-facing roadmap materials
+- executive-facing roadmap materials
 - business-case classification logic
 - opportunity prioritization templates
 - cross-functional stakeholder coordination

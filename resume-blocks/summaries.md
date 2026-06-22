@@ -19,8 +19,8 @@ Product and platform operations leader who turns strategy into usable workflows,
 
 ## AI Enablement Summary
 
-AI enablement leader with experience translating LLMs, AI agents, workflow automation, disruption scenarios, and responsible adoption boundaries into practical executive awareness, product workflows, and human-in-the-loop operating models.
+AI enablement leader with experience translating LLMs, AI agents, workflow automation, adoption scenarios, and responsible adoption boundaries into practical executive awareness, product workflows, and human-in-the-loop operating models.
 
 ## Founder-Operator Summary
 
-Founder/operator of VentureLayer Digital LLC and VentureLayer Labs, building productized digital systems, vertical account-intelligence workflows, AI-assisted product development practices, and governed client workspace models.
+Founder/operator of VentureLayer Digital LLC and VentureLayer Labs, building productized digital systems, structured market/account research workflows, AI-assisted product development practices, and governed client workspace models.

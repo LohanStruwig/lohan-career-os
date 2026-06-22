@@ -17,7 +17,7 @@ The work demonstrates B2B technical-commercial positioning, industrial market fl
 
 ## Context
 
-B2B industrial markets require credibility, technical clarity, supplier/channel alignment, practical sales enablement, and market-facing communication that can support relationship-led and tender-driven opportunities.
+B2B industrial markets require credibility, technical clarity, supplier/channel alignment, practical sales enablement, and market-facing communication that can support relationship-led and proposal-driven opportunities.
 
 ## Challenge
 
@@ -47,4 +47,4 @@ This portfolio version focuses on B2B commercialization, technical-commercial po
 
 ## Portfolio Use
 
-This case study can support client trust, VentureLayer positioning, B2B market-intelligence credibility, hiring conversations, and future website content around technical-commercial execution and industrial market systems.
+This case study can support client trust, VentureLayer positioning, B2B market research credibility, hiring conversations, and future website content around technical-commercial execution and industrial market systems.

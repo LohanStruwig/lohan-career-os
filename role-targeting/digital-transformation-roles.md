@@ -17,7 +17,7 @@ Digital transformation leader who turns strategy into roadmaps, operating models
 
 - regional digital transformation leadership
 - EdTech and publishing platform shift
-- EXCO-facing roadmap and decision materials
+- executive-facing roadmap and decision materials
 - operating readiness and governance
 - cross-functional stakeholder alignment
 

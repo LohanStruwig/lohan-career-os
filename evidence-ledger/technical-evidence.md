@@ -49,10 +49,10 @@ last_updated: 2026-06-21
 - dashboard, tracker, and risk register design
 - AI-assisted product development
 - portfolio-level architecture documentation
-- protected workspace access planning
-- account-intelligence scoring signals
-- browser-generated PDF account packet exports
+- governed workspace access planning
+- market/account research review signals
+- browser-generated PDF review packet exports
 - saved filter workflows
-- Python research, scoring, diagnostics, and import preview tooling
+- Python research, review, diagnostics, and import preview tooling
 - PowerShell validation and guarded SQL execution wrappers
 - GitHub PR, Vercel preview, and production smoke QA workflow

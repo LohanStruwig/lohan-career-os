@@ -15,10 +15,10 @@ Executive stakeholder enablement through decision frameworks, business-case clas
 
 ## Evidence
 
-- Created EXCO-facing roadmap materials and decision frameworks.
-- Trained approximately 14 EXCO/executive stakeholders on AI and disruption scenarios.
+- Created executive-facing roadmap materials and decision frameworks.
+- Trained executive stakeholders on AI and adoption scenarios.
 - Helped leaders compare commercial, pilot, readiness, capability, and market-readiness initiatives.
-- Served as a bridge between regional EXCO, country/market leadership, product/publishing, finance/legal, customer service, and technology partners.
+- Served as a bridge between regional leadership, country/market leadership, product/publishing, commercial/legal, customer service, and technology partners.
 
 ## Reusable Resume Language
 

@@ -17,7 +17,7 @@ Digital Transformation and Product Operations Executive with 15+ years of experi
 
 I work best where strategy has to become something teams can actually run: roadmaps, governance models, product workflows, QA checkpoints, decision frameworks, cross-functional handoffs, data-informed operating models, and customer-ready systems.
 
-My background spans regional digital operations leadership, founder-led product development, B2B industrial market systems, fintech product readiness, digital acquisition workflows, and AI-assisted product development.
+My background spans regional digital operations leadership, founder-led product development, B2B industrial market systems, digital product readiness, digital acquisition workflows, and AI-assisted product development.
 
 ## Core Themes
 

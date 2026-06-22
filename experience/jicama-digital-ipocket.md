@@ -30,4 +30,4 @@ Delivered a transitional Jicama Digital contract for Kubwa Group / iPocket, focu
 
 ## Reusable Resume Angle
 
-Best used for roles involving fintech context, platform readiness, UX translation, stakeholder coordination, and early product operations.
+Best used for roles involving financial-services product context, platform readiness, UX translation, stakeholder coordination, and early product operations.
