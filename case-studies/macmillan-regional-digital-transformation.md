@@ -4,7 +4,7 @@ category: Case Study
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # Macmillan Regional Digital Transformation
@@ -14,6 +14,13 @@ last_updated: 2026-06-21
 At Macmillan Education Southern Africa / Springer Nature Curriculum, Lohan led regional digital operations through a shift from print-centered publishing toward governed platform, eBook, LMS, voucher, eCommerce, teacher-development, and content-readiness models.
 
 The work demonstrates executive transformation experience, operating-model design, product and platform operations, roadmap governance, cross-functional leadership, and practical digital business-model execution.
+
+## At A Glance
+
+- Domain: Education publishing and digital learning operations
+- Role: Regional digital operations and transformation lead
+- Capability demonstrated: Digital operating-model design, platform-readiness governance, product operations, and cross-functional delivery
+- Public-safe proof type: Portfolio summary based on role scope, public-safe operating patterns, and selected transformation themes
 
 ## Context
 
@@ -29,7 +36,7 @@ This required separating customer needs, platform capability, content readiness,
 
 ## Role
 
-Lohan served as Regional Head of Digital Operations, leading a direct team of six project leads and coordinating broader regional working groups across digital transformation and platform-readiness initiatives.
+Lohan served as Regional Head of Digital Operations, leading a small team of project leads and coordinating broader regional working groups across digital transformation and platform-readiness initiatives.
 
 ## Approach
 
@@ -48,9 +55,9 @@ The approach combined transformation strategy with operating discipline:
 
 This case study demonstrates digital transformation leadership, product and platform operations, portfolio governance, executive alignment, cross-functional delivery, change management, and operating-model design.
 
-## Evidence Note
+## Evidence Basis
 
-This portfolio version focuses on the transformation scope, operating approach, and selected proof themes for website, proposal, and executive conversations.
+This portfolio version is based on available public-safe summaries, role scope, operating patterns, and selected transformation themes. It is intended to show the nature of the work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
 
 ## Portfolio Use
 

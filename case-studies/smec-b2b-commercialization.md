@@ -4,16 +4,23 @@ category: Case Study
 visibility: public
 resume_relevance: medium
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # SMEC B2B Commercialization
 
 ## Executive Snapshot
 
-At SMEC Projects Africa, Lohan led marketing, digital presence, brand development, exhibitions, supplier/channel support, and sales enablement for a B2B industrial business operating across CNC machine tools, automation, retrofitting, tooling, consumables, and turnkey manufacturing solutions.
+At SMEC Projects Africa, Lohan led marketing, digital presence, brand development, exhibitions, supplier/channel support, and sales enablement for a B2B industrial business spanning CNC machine tools, automation, retrofitting, tooling, consumables, and turnkey manufacturing solutions.
 
 The work demonstrates B2B technical-commercial positioning, industrial market fluency, sales enablement, brand infrastructure, and translation between technical capability and customer-facing value.
+
+## At A Glance
+
+- Domain: B2B industrial commercialization
+- Role: Chief Marketing Officer
+- Capability demonstrated: Technical-commercial positioning, sales enablement, supplier/channel support, brand infrastructure, and industrial market communication
+- Public-safe proof type: Role summary, market-facing operating patterns, selected commercialization themes
 
 ## Context
 
@@ -41,9 +48,9 @@ The approach focused on technical-commercial translation:
 
 This case study demonstrates B2B commercialization, technical-commercial communication, sales enablement, industrial market understanding, channel support, and the CNC/VMC fluency later applied to VentureLayer and CNC Intel Hub.
 
-## Evidence Note
+## Evidence Basis
 
-This portfolio version focuses on B2B commercialization, technical-commercial positioning, and selected proof themes for website, proposal, and executive conversations.
+This portfolio version is based on public-safe role summaries, operating patterns, and selected commercialization themes. It is intended to show the nature of the commercial work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
 
 ## Portfolio Use
 

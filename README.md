@@ -2,7 +2,7 @@
 
 Public-safe career and portfolio operating system for Lohan Struwig.
 
-This repository organizes career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material into a structured public proof layer. It is designed for quick professional review without turning the repo into a raw personal archive.
+This repository organizes career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material into a structured public proof layer. It is designed for quick professional review as a curated credibility system, not as an exhaustive archive.
 
 Best first reads:
 
@@ -10,6 +10,7 @@ Best first reads:
 - [CNC Intel Hub Case Study](case-studies/cnc-intel-hub.md) for founder-led product proof.
 - [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md) for the VentureLayer public story.
 - [Publication Boundary](docs/publication-boundary.md) for what stays public and what does not.
+- [Evidence Limitations and Context](docs/evidence-limitations-and-context.md) for how proof gaps are handled.
 
 Public links:
 
@@ -32,6 +33,7 @@ For a structured review:
 - [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md)
 - [Audience Guide](docs/audience-guide.md)
 - [Publication Boundary](docs/publication-boundary.md)
+- [Evidence Limitations and Context](docs/evidence-limitations-and-context.md)
 
 For selected proof:
 
@@ -51,7 +53,7 @@ For capability review:
 ## Repository Map
 
 ```text
-docs/               Audience guide, publication boundary, and website roadmap
+docs/               Audience guide, publication boundary, evidence context, and website roadmap
 case-studies/       Selected public-safe portfolio case studies
 capability-blocks/  Capability narratives for portfolio and opportunity review
 portfolio-content/  Founder profile, VentureLayer content, and portfolio page copy
@@ -61,7 +63,7 @@ experience/         Role-by-role career records
 master-cv/          Structured source sections for reviewed professional use
 evidence-ledger/    Delivery evidence and proof-point source material
 resume-blocks/      Reusable summaries, proof points, and capability language
-role-targeting/     Role-family positioning for selective professional review
+role-targeting/     Role-category positioning for selective professional review
 governance/         Content schema and update history
 ```
 
@@ -78,11 +80,13 @@ The repository is meant to show a repeatable professional pattern:
 
 ## Public Review Notes
 
-This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content. Deeper folders exist to keep the source material organized, but they should be treated as reviewed reference material rather than a general archive.
+This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content. Deeper folders exist to keep source material organized, but they should be treated as reviewed reference material rather than a general archive.
+
+Historic materials may be incomplete, unavailable, private, or unsuitable for public release. Missing artifacts should not be converted into unsupported claims. See [Evidence Limitations and Context](docs/evidence-limitations-and-context.md) for the claim standard.
 
 ## Publication Boundary
 
-This is a public portfolio repository. It should not contain passwords, tokens, private keys, `.env` values, private customer data, sensitive personal identifiers, financial records, private job-search material, or unreviewed source archives.
+This is a public portfolio repository. It should not contain credentials, confidential records, personal identifiers, restricted source material, or unreviewed archives.
 
 Public readers should treat the `Start Here`, `selected proof`, and `capability review` sections as the primary navigation. Deeper source folders are maintained for structured review and should be quoted or reused only after checking context and sensitivity.
 

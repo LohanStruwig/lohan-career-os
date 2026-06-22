@@ -4,7 +4,7 @@ category: Case Study
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # CNC Intel Hub
@@ -13,7 +13,14 @@ last_updated: 2026-06-21
 
 CNC Intel Hub is a vertical SaaS-style market and account research workspace developed through VentureLayer Labs for CNC/VMC industry review. It supports access-controlled company review, territory context, dealer/customer fit, evidence-backed research workflows, review signals, saved filters, and exportable PDF review summaries.
 
-The work demonstrates founder-led product capability, governed workspace thinking, AI-assisted development, technical-commercial execution, data governance, workflow design, PDF reporting, research tooling, and practical delivery discipline.
+The work demonstrates founder-led product capability, governed workspace thinking, AI-assisted development, technical-commercial execution, data governance, workflow design, PDF reporting, research tooling, and delivery discipline.
+
+## At A Glance
+
+- Domain: CNC/VMC market and account research
+- Role: Founder/product owner through VentureLayer Labs
+- Capability demonstrated: Governed research workspace design, AI-assisted product development, PDF reporting, data governance, and technical-commercial execution
+- Public-safe proof type: Product summary, workflow patterns, selected implementation themes, QA and delivery practices
 
 ## Context
 
@@ -54,9 +61,9 @@ This case study demonstrates product ownership, vertical market/account research
 
 During an intensive build cycle, the project recorded approximately 500 commits in one month, reflecting sustained product-development momentum and iterative execution.
 
-## Evidence Note
+## Evidence Basis
 
-This portfolio version focuses on the product direction, operating approach, and selected proof themes for website, proposal, and executive conversations.
+This portfolio version is based on public-safe product summaries, operating patterns, selected implementation themes, and QA/delivery practices. It is intended to show the nature of the product work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
 
 ## Portfolio Use
 
