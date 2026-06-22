@@ -4,7 +4,7 @@ category: Case Study
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # AI Executive Enablement
@@ -14,6 +14,13 @@ last_updated: 2026-06-21
 Lohan initiated executive AI awareness and enablement work for senior stakeholders, covering AI concepts, LLMs, AI agents, adoption scenarios, and practical implications for education publishing and digital workflow design.
 
 The work demonstrates AI enablement, executive communication, responsible adoption framing, human-in-the-loop governance, and the ability to translate emerging digital systems into practical operating questions.
+
+## At A Glance
+
+- Domain: AI adoption in education publishing and digital workflow design
+- Role: Executive AI awareness and enablement lead
+- Capability demonstrated: AI translation, responsible adoption framing, workflow implication mapping, and human-in-the-loop governance
+- Public-safe proof type: Portfolio summary based on public-safe enablement themes, operating patterns, and selected workflow implications
 
 ## Context
 
@@ -43,9 +50,9 @@ The approach combined executive translation with operating-model thinking:
 
 This case study demonstrates AI enablement, executive stakeholder alignment, emerging digital systems thinking, responsible AI framing, workflow transformation, and human-in-the-loop governance.
 
-## Evidence Note
+## Evidence Basis
 
-This portfolio version focuses on AI enablement, executive translation, workflow implications, and selected proof themes for website, proposal, and executive conversations.
+This portfolio version is based on available public-safe summaries, operating patterns, and selected workflow implications. It is intended to show the nature of the enablement work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
 
 ## Portfolio Use
 
