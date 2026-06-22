@@ -48,3 +48,9 @@ Use restrained wording when source material is partial. A credible summary is be
 Public readers should treat this repository as a selected professional proof system. It is designed to show patterns of capability, judgment, delivery, and portfolio direction without exposing raw archives or unsuitable source material.
 
 The strongest evidence path remains the README, career profile, selected case studies, capability blocks, and VentureLayer portfolio content.
+
+## Related Review Documents
+
+- [Publication Boundary](publication-boundary.md) defines what belongs in the public repo and what should stay out.
+- [Public Review Checklist](public-review-checklist.md) provides a recurring review process for links, claims, wording, and public-safety checks.
+- [Public Visual Proof Guidelines](public-visual-proof-guidelines.md) defines when screenshots, diagrams, or visual proof are appropriate.

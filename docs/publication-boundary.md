@@ -67,7 +67,7 @@ Absence of artifacts should not be filled with unsupported claims. Public credib
 
 ## Review Checklist
 
-Before publishing a new file or linking it from the README:
+Before publishing a new file or linking it from the README, use the full [Public Review Checklist](public-review-checklist.md). At minimum:
 
 - confirm the content is safe for public viewing;
 - remove credentials, private identifiers, and local configuration details;
@@ -76,6 +76,8 @@ Before publishing a new file or linking it from the README:
 - keep claims grounded and reviewable;
 - do not convert missing artifacts into unsupported certainty;
 - prefer selected proof over raw evidence dumps.
+
+For screenshots, diagrams, and other images, also use [Public Visual Proof Guidelines](public-visual-proof-guidelines.md).
 
 ## Recommended Reader Path
 
