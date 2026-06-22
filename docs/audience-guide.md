@@ -4,7 +4,7 @@ category: Documentation
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # Audience Guide
@@ -22,6 +22,8 @@ Read first:
 ## Clients And Partners
 
 Clients and partners want to know whether the operating approach is credible, commercially mature, and grounded in real transformation and product work.
+
+For the shortest VentureLayer-specific path, read the VentureLayer credibility page, founder profile, CNC Intel Hub case study, and then the live VentureLayer Digital site.
 
 Read first:
 

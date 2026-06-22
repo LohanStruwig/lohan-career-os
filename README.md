@@ -42,6 +42,16 @@ For selected proof:
 - [AI Executive Enablement](case-studies/ai-executive-enablement.md)
 - [SMEC B2B Commercialization](case-studies/smec-b2b-commercialization.md)
 
+## VentureLayer Proof Path
+
+For readers evaluating VentureLayer Digital, use this path:
+
+1. [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md) for the studio positioning and operating approach.
+2. [Founder Profile](portfolio-content/founder-profile.md) for the founder/operator background behind the work.
+3. [CNC Intel Hub Case Study](case-studies/cnc-intel-hub.md) for founder-led product proof.
+4. [Macmillan Regional Digital Transformation](case-studies/macmillan-regional-digital-transformation.md) and [AI Executive Enablement](case-studies/ai-executive-enablement.md) for transformation and enablement context.
+5. [VentureLayer Digital](https://venturelayerdigital.com) for the live public site.
+
 For capability review:
 
 - [Digital Transformation](capability-blocks/digital-transformation.md)

@@ -4,7 +4,7 @@ category: Portfolio Content
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # Founder Profile
@@ -40,3 +40,10 @@ He has trained executive stakeholders on AI, LLMs, AI agents, adoption scenarios
 Lohan's work is strongest where digital strategy must become something people can actually run: productized workflows, market-intelligence systems, operating-model design, technical-commercial execution, governance loops, and client-ready digital systems.
 
 The material in this repository makes that capability visible in a structured, portfolio-ready form.
+
+## Related Public Proof
+
+- [VentureLayer Credibility Page](venturelayer-credibility-page.md) for the studio positioning and operating approach.
+- [CNC Intel Hub Case Study](../case-studies/cnc-intel-hub.md) for founder-led product proof.
+- [Macmillan Regional Digital Transformation](../case-studies/macmillan-regional-digital-transformation.md) for transformation and platform operations context.
+- [AI Executive Enablement](../case-studies/ai-executive-enablement.md) for responsible AI adoption and executive translation context.
