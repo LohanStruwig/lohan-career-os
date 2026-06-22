@@ -11,6 +11,7 @@ Best first reads:
 - [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md) for the VentureLayer public story.
 - [Publication Boundary](docs/publication-boundary.md) for what stays public and what does not.
 - [Evidence Limitations and Context](docs/evidence-limitations-and-context.md) for how proof gaps are handled.
+- [Public Review Checklist](docs/public-review-checklist.md) for recurring public-safety review.
 
 Public links:
 
@@ -34,6 +35,7 @@ For a structured review:
 - [Audience Guide](docs/audience-guide.md)
 - [Publication Boundary](docs/publication-boundary.md)
 - [Evidence Limitations and Context](docs/evidence-limitations-and-context.md)
+- [Public Review Checklist](docs/public-review-checklist.md)
 
 For selected proof:
 
@@ -63,7 +65,7 @@ For capability review:
 ## Repository Map
 
 ```text
-docs/               Audience guide, publication boundary, evidence context, and website roadmap
+docs/               Audience guide, publication boundary, evidence context, review checklist, visual guidelines, and website roadmap
 case-studies/       Selected public-safe portfolio case studies
 capability-blocks/  Capability narratives for portfolio and opportunity review
 portfolio-content/  Founder profile, VentureLayer content, and portfolio page copy
@@ -93,6 +95,8 @@ The repository is meant to show a repeatable professional pattern:
 This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content. Deeper folders exist to keep source material organized, but they should be treated as reviewed reference material rather than a general archive.
 
 Historic materials may be incomplete, unavailable, private, or unsuitable for public release. Missing artifacts should not be converted into unsupported claims. See [Evidence Limitations and Context](docs/evidence-limitations-and-context.md) for the claim standard.
+
+Use [Public Review Checklist](docs/public-review-checklist.md) before linking new files, adding visuals, or sharing the repository more widely. Use [Public Visual Proof Guidelines](docs/public-visual-proof-guidelines.md) before adding screenshots, diagrams, or public proof images.
 
 ## Publication Boundary
 
