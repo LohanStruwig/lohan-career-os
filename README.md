@@ -1,84 +1,91 @@
 # Lohan Struwig Career OS
 
-Public professional credibility system for Lohan Struwig, connecting founder profile, selected project evidence, digital product work, technical fluency, and executive positioning across VentureLayer Digital, AI enablement, product operations, digital transformation, EdTech platforms, and B2B market-intelligence systems.
+Curated professional portfolio system for Lohan Struwig.
 
-This repository is the structured content backbone behind a broader professional portfolio. It supports client trust, partner conversations, executive opportunity review, project case studies, and future VentureLayer Digital website content.
+This repository organizes public-safe career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material. It is designed to make the professional story easier to review without turning the repo into a raw personal archive.
+
+Public links:
+
+- Website: <https://venturelayerdigital.com>
+- GitHub profile: <https://github.com/LohanStruwig>
+- LinkedIn: <https://linkedin.com/in/lohanstruwig>
 
 ## Public Positioning
 
-Lohan Struwig is a Digital Transformation and Product Operations Executive based in Frisco, Texas, with 15+ years of experience across EdTech platforms, digital publishing, AI-enabled workflow design, product and platform operations, operating-model design, market-intelligence systems, and B2B digital systems.
+Lohan Struwig is a digital transformation and product operations leader based in Frisco, Texas, with 15+ years of experience across EdTech platforms, digital publishing, product and platform operations, AI-assisted workflow design, operating-model development, B2B systems, and structured market research.
 
-Through VentureLayer Digital, the positioning connects executive transformation experience with founder-led digital product capability, frontier digital systems, productized business workflows, technical-commercial execution, and practical AI-enabled product development.
-
-Primary public links:
-
-- LinkedIn: <https://linkedin.com/in/lohanstruwig>
-- GitHub: <https://github.com/LohanStruwig>
+The current public story connects executive transformation experience with founder-led digital product capability through VentureLayer Digital, CNC Intel Hub, and selected portfolio case studies.
 
 ## Start Here
 
-For clients and partners:
-
-- [Founder Profile](portfolio-content/founder-profile.md)
-- [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md)
-- [Leadership Operating Style](master-cv/07-leadership-operating-style.md)
-- [Case Studies](case-studies/)
-
-For hiring teams:
+For a quick review:
 
 - [Career Profile](career-profile.md)
-- [Executive Summary](master-cv/00-executive-summary.md)
-- [Role Targeting](role-targeting/)
-- [Selected Achievements](master-cv/08-selected-achievements.md)
-- [Resume Blocks](resume-blocks/)
+- [Founder Profile](portfolio-content/founder-profile.md)
+- [VentureLayer Credibility Page](portfolio-content/venturelayer-credibility-page.md)
+- [Audience Guide](docs/audience-guide.md)
+- [Publication Boundary](docs/publication-boundary.md)
 
-For technical reviewers:
+For selected proof:
 
 - [CNC Intel Hub Case Study](case-studies/cnc-intel-hub.md)
-- [CNC Intel Hub Architecture Notes](projects/cnc-intel-hub/architecture-notes.md)
-- [CNC Intel Hub Technical Stack Summary](projects/cnc-intel-hub/technical-stack-summary.md)
-- [Technical Fluency](master-cv/06-technical-fluency.md)
-- [Technical Evidence](evidence-ledger/technical-evidence.md)
+- [Macmillan Regional Digital Transformation](case-studies/macmillan-regional-digital-transformation.md)
+- [AI Executive Enablement](case-studies/ai-executive-enablement.md)
+- [SMEC B2B Commercialization](case-studies/smec-b2b-commercialization.md)
+
+For capability review:
+
+- [Digital Transformation](capability-blocks/digital-transformation.md)
+- [Product And Platform Operations](capability-blocks/product-platform-operations.md)
+- [AI Enablement](capability-blocks/ai-enablement.md)
 - [Workflow Systems Design](capability-blocks/workflow-systems-design.md)
-
-For collaborators and portfolio builders:
-
-- [Audience Guide](docs/audience-guide.md)
-- [Selected Projects](projects/)
-- [VentureLayer Labs](projects/venturelayer-labs/overview.md)
-- [Website Roadmap](docs/website-roadmap.md)
+- [B2B Market Intelligence](capability-blocks/b2b-market-intelligence.md)
 
 ## Repository Map
 
 ```text
-docs/               Audience navigation and website roadmap
-case-studies/       Selected portfolio case studies
-master-cv/          Master career profile broken into reusable sections
-experience/         Role-by-role career records
-capability-blocks/  Capability narratives for portfolios, proposals, and resumes
-skills/             Technical, operational, AI, platform, and business skill maps
-projects/           Project-level evidence, architecture notes, and product context
-evidence-ledger/    Achievements, proof points, and delivery evidence
-resume-blocks/      Reusable executive summaries, proof points, and capability language
+docs/               Audience guide, publication boundary, and website roadmap
+case-studies/       Selected public-safe portfolio case studies
+capability-blocks/  Capability narratives for portfolio and opportunity review
 portfolio-content/  Founder profile, VentureLayer content, and portfolio page copy
-role-targeting/     Role-family positioning for executive opportunity review
+projects/           Project-level notes and architecture summaries
+skills/             Technical, operational, AI, platform, and business skill maps
+experience/         Role-by-role career records
+master-cv/          Structured source sections for reviewed professional use
+evidence-ledger/    Delivery evidence and proof-point source material
+resume-blocks/      Reusable summaries, proof points, and capability language
+role-targeting/     Role-family positioning for selective professional review
 governance/         Content schema and update history
 ```
 
 ## What This Proves
 
-This repository is designed to show more than a list of roles. It demonstrates a repeatable professional pattern:
+The repository is meant to show a repeatable professional pattern:
 
-- converting fragmented information into structured systems
-- translating executive intent into operating models
-- designing productized workflows and governance loops
-- building selected project evidence from real operating history
-- combining technical fluency with commercial judgment
-- using AI-enabled workflow design with human approval gates
-- connecting VentureLayer Digital credibility with executive transformation experience
+- converting fragmented experience into structured narrative systems;
+- translating strategic intent into operating models and workflows;
+- connecting product judgment, platform operations, and commercial execution;
+- using AI-assisted workflow design with human review and governance;
+- building public-safe proof surfaces from selected project history;
+- linking VentureLayer Digital credibility with practical transformation experience.
+
+## Publication Boundary
+
+This is a public portfolio repository. It should not contain passwords, tokens, private keys, `.env` values, private customer data, sensitive personal identifiers, financial records, private job-search material, or unreviewed source archives.
+
+Public readers should treat the `Start Here`, `selected proof`, and `capability review` sections as the primary navigation. Deeper source folders are maintained for structured review and should be quoted or reused only after checking context and sensitivity.
+
+See [Publication Boundary](docs/publication-boundary.md) for the repo's public-safety policy.
 
 ## Current Focus
 
-The current priority is a polished public credibility layer: strong positioning, clear navigation, selected case studies, founder profile content, and VentureLayer Digital portfolio material.
+The current priority is a clean credibility layer:
 
-Website implementation, automation, and content-generation tooling can come later once the public story layer is mature.
+- clear public positioning;
+- safe first-click navigation;
+- selected case studies;
+- VentureLayer Digital portfolio material;
+- GitHub profile alignment;
+- strict separation between public proof and private source material.
+
+Future polish should improve selected README files and case-study surfaces one at a time rather than exposing raw archive material.

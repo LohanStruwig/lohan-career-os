@@ -11,6 +11,14 @@ last_updated: 2026-06-21
 
 This guide helps different readers navigate the professional credibility system for Lohan Struwig and VentureLayer Digital.
 
+## Public-Safety Note
+
+This is a public portfolio repository. Start with curated profile, case-study, and capability files before using deeper source folders.
+
+Read first:
+
+- [Publication Boundary](publication-boundary.md)
+
 ## Clients And Partners
 
 Clients and partners want to know whether the operating approach is credible, commercially mature, and grounded in real transformation and product work.
@@ -30,28 +38,28 @@ Questions this helps answer:
 - What evidence supports the founder-led product and transformation capability?
 - How does Lohan connect strategy, execution, data, tools, and governance?
 
-## Hiring Teams And Recruiters
+## Professional Review
 
-Hiring teams and recruiters want a clear executive profile, role fit, selected achievements, and evidence of both strategic and technical-commercial capability.
+Professional reviewers want a clear executive profile, role fit, selected achievements, and evidence of both strategic and technical-commercial capability.
 
 Read first:
 
 - [Career Profile](../career-profile.md)
-- [Executive Summary](../master-cv/00-executive-summary.md)
-- [Core Positioning](../master-cv/01-core-positioning.md)
+- [Founder Profile](../portfolio-content/founder-profile.md)
 - [Selected Achievements](../master-cv/08-selected-achievements.md)
-- [Role Targeting](../role-targeting/)
+- [Case Studies](../case-studies/)
+- [Capability Blocks](../capability-blocks/)
 
 Questions this helps answer:
 
-- Which senior roles does Lohan fit?
+- Which senior roles or professional conversations does Lohan fit?
 - What transformation, product operations, platform operations, AI enablement, and EdTech evidence supports the positioning?
 - How does the founder/operator layer strengthen the executive profile?
 - What proof points can support a focused hiring conversation?
 
 Best use:
 
-Use these sections to understand role fit, executive positioning, and the evidence behind the transformation/product/platform narrative.
+Use these sections to understand role fit, executive positioning, and the evidence behind the transformation/product/platform narrative. Treat deeper source folders as review material, not as copy-ready public text.
 
 ## Technical Reviewers
 
@@ -105,6 +113,7 @@ Portfolio and website builders need reusable source content that can become a po
 
 Read first:
 
+- [Publication Boundary](publication-boundary.md)
 - [Website Roadmap](website-roadmap.md)
 - [Content Schema](../governance/content-schema.md)
 - [Founder Profile](../portfolio-content/founder-profile.md)
