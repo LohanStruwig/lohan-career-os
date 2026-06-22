@@ -4,7 +4,7 @@ category: Portfolio Content
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 # VentureLayer Digital Credibility Page
@@ -80,3 +80,11 @@ Selected proof themes:
 ## Public Portfolio Role
 
 This repository supports VentureLayer's public credibility layer. It organizes selected portfolio proof, founder profile content, capability blocks, technical fluency, and case studies into a structured source that can later become polished website pages, proposal content, and client-facing proof.
+
+## Proof Path
+
+- [Founder Profile](founder-profile.md) explains the founder/operator background behind VentureLayer Digital.
+- [CNC Intel Hub Case Study](../case-studies/cnc-intel-hub.md) shows founder-led product development and governed research workspace thinking.
+- [Macmillan Regional Digital Transformation](../case-studies/macmillan-regional-digital-transformation.md) shows transformation, platform operations, and operating-model experience.
+- [AI Executive Enablement](../case-studies/ai-executive-enablement.md) shows responsible AI adoption framing and workflow translation.
+- [VentureLayer Digital](https://venturelayerdigital.com) is the live public site.
