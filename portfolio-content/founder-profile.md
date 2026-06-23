@@ -4,7 +4,7 @@ category: Portfolio Content
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # Founder Profile
@@ -25,9 +25,9 @@ This work required executive alignment, roadmap development, platform-readiness 
 
 ## Product And Technical-Commercial Execution
 
-VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical SaaS-style CNC/VMC account-review workspace, reflects this product direction through workspace access, company review, territory context, public-safe research, review signals, saved filters, PDF review packets, and governed release workflows.
+VentureLayer Labs extends that operating background into founder-led product development. CNC Intel Hub, a vertical SaaS-style CNC/VMC account-review workspace, reflects this product direction through workspace access, company review, territory context, public-safe research, saved views, PDF review summaries, and governed release workflows.
 
-The practical stack includes React, TypeScript, Vite, Supabase auth/workspace planning, Vercel, GitHub PR workflow, pdf-lib, Python research tooling, PowerShell validation wrappers, PostgreSQL/SQL governance, AI-assisted workflow support, QA loops, and human approval gates.
+The public proof focuses on outcomes rather than implementation detail: structured review workflows, governed access patterns, reporting outputs, QA loops, AI-assisted workflow support, and human approval gates.
 
 ## AI-Enabled Workflow Perspective
 

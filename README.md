@@ -2,7 +2,7 @@
 
 Public-safe career and portfolio operating system for Lohan Struwig.
 
-This repository organizes career positioning, capability narratives, selected case studies, project notes, and VentureLayer Digital portfolio material into a structured public proof layer. It is designed for quick professional review as a curated credibility system, not as an exhaustive archive.
+This repository organizes career positioning, capability narratives, selected case studies, and VentureLayer Digital portfolio material into a structured public proof layer. It is designed for quick professional review as a curated credibility system, not as an exhaustive archive.
 
 Best first reads:
 
@@ -21,7 +21,7 @@ Public links:
 
 ## Public Positioning
 
-Lohan Struwig is a digital transformation and product operations leader based in Frisco, Texas, with 15+ years of experience across EdTech platforms, digital publishing, product and platform operations, AI-assisted workflow design, operating-model development, B2B systems, and structured market research.
+Lohan Struwig is a digital transformation and product operations leader based in the Dallas-Fort Worth area, Texas, with 15+ years of experience across EdTech platforms, digital publishing, product and platform operations, AI-assisted workflow design, operating-model development, B2B systems, and structured market research.
 
 The current public story connects executive transformation experience with founder-led digital product capability through VentureLayer Digital, CNC Intel Hub, and selected portfolio case studies.
 
@@ -65,18 +65,11 @@ For capability review:
 ## Repository Map
 
 ```text
-docs/               Audience guide, publication boundary, evidence context, review checklist, visual guidelines, and website roadmap
+docs/               Audience guide, publication boundary, evidence context, review checklist, and visual guidelines
 case-studies/       Selected public-safe portfolio case studies
 capability-blocks/  Capability narratives for portfolio and opportunity review
 portfolio-content/  Founder profile, VentureLayer content, and portfolio page copy
-projects/           Project-level notes and architecture summaries
-skills/             Technical, operational, AI, platform, and business skill maps
-experience/         Role-by-role career records
-master-cv/          Structured source sections for reviewed professional use
-evidence-ledger/    Delivery evidence and proof-point source material
-resume-blocks/      Reusable summaries, proof points, and capability language
-role-targeting/     Role-category positioning for selective professional review
-governance/         Content schema and update history
+career-profile.md   Concise public professional profile
 ```
 
 ## What This Proves
@@ -92,9 +85,11 @@ The repository is meant to show a repeatable professional pattern:
 
 ## Public Review Notes
 
-This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content. Deeper folders exist to keep source material organized, but they should be treated as reviewed reference material rather than a general archive.
+This repo is intentionally curated. The strongest first-click path is the career profile, selected case studies, capability blocks, and VentureLayer portfolio content.
 
 Historic materials may be incomplete, unavailable, private, or unsuitable for public release. Missing artifacts should not be converted into unsupported claims. See [Evidence Limitations and Context](docs/evidence-limitations-and-context.md) for the claim standard.
+
+Files that remain in this public repository should be safe for public reading by direct URL, GitHub search, clone, and search-engine indexing. Removing a link is not treated as privacy protection.
 
 Use [Public Review Checklist](docs/public-review-checklist.md) before linking new files, adding visuals, or sharing the repository more widely. Use [Public Visual Proof Guidelines](docs/public-visual-proof-guidelines.md) before adding screenshots, diagrams, or public proof images.
 
@@ -102,7 +97,7 @@ Use [Public Review Checklist](docs/public-review-checklist.md) before linking ne
 
 This is a public portfolio repository. It should not contain credentials, confidential records, personal identifiers, restricted source material, or unreviewed archives.
 
-Public readers should treat the `Start Here`, `selected proof`, and `capability review` sections as the primary navigation. Deeper source folders are maintained for structured review and should be quoted or reused only after checking context and sensitivity.
+Public readers should treat the `Start Here`, `selected proof`, and `capability review` sections as the primary navigation. Deeper source material is intentionally kept outside this public tree unless it has been rewritten to the same public-safety standard as the curated files.
 
 See [Publication Boundary](docs/publication-boundary.md) for the repo's public-safety policy.
 

@@ -4,16 +4,16 @@ category: Documentation
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # Audience Guide
 
-This guide helps different readers navigate the professional credibility system for Lohan Struwig and VentureLayer Digital.
+This guide helps different readers navigate the public credibility layer for Lohan Struwig and VentureLayer Digital.
 
 ## Public-Safety Note
 
-This is a public portfolio repository. Start with curated profile, case-study, and capability files before using deeper source folders.
+This is a public portfolio repository. Every file that remains here should be safe for public reading by direct URL, GitHub search, clone, and indexing.
 
 Read first:
 
@@ -42,13 +42,12 @@ Questions this helps answer:
 
 ## Professional Review
 
-Professional reviewers want a clear executive profile, selected achievements, and evidence of both strategic and technical-commercial capability.
+Professional reviewers want a clear executive profile and evidence of both strategic and technical-commercial capability.
 
 Read first:
 
 - [Career Profile](../career-profile.md)
 - [Founder Profile](../portfolio-content/founder-profile.md)
-- [Selected Achievements](../master-cv/08-selected-achievements.md)
 - [Case Studies](../case-studies/)
 - [Capability Blocks](../capability-blocks/)
 
@@ -61,7 +60,7 @@ Questions this helps answer:
 
 Best use:
 
-Use these sections to understand executive positioning and the evidence behind the transformation/product/platform narrative. Treat deeper source folders as review material, not as copy-ready public text.
+Use these sections to understand executive positioning and the evidence behind the transformation/product/platform narrative.
 
 ## Technical Reviewers
 
@@ -69,33 +68,30 @@ Technical reviewers want to understand whether the work is only strategic langua
 
 Read first:
 
-- [Technical Fluency](../master-cv/06-technical-fluency.md)
-- [Technical Evidence](../evidence-ledger/technical-evidence.md)
-- [CNC Intel Hub Architecture Notes](../projects/cnc-intel-hub/architecture-notes.md)
-- [CNC Intel Hub Technical Stack Summary](../projects/cnc-intel-hub/technical-stack-summary.md)
 - [CNC Intel Hub Case Study](../case-studies/cnc-intel-hub.md)
-- [AI Tools And Agents](../skills/ai-tools-and-agents.md)
+- [AI Executive Enablement](../case-studies/ai-executive-enablement.md)
+- [Product And Platform Operations](../capability-blocks/product-platform-operations.md)
+- [Workflow Systems Design](../capability-blocks/workflow-systems-design.md)
 
 Questions this helps answer:
 
-- What tools, platforms, and implementation contexts does Lohan understand?
-- How does he think about data, workflows, QA, deployment, and human approval gates?
+- What practical systems thinking is visible in the public work?
+- How does he think about data, workflows, QA, and human approval gates?
 - How does AI-assisted product development fit into a governed operating model?
 - What project evidence shows technical-commercial execution?
 
 Best use:
 
-Use these sections to evaluate practical systems thinking, product fluency, AI-enabled workflow design, and the connection between technical delivery and commercial purpose.
+Use these sections to evaluate practical systems thinking, product fluency, AI-enabled workflow design, and the connection between delivery discipline and commercial purpose.
 
 ## Future Collaborators
 
-Future collaborators want to understand working style, operating philosophy, product direction, and where VentureLayer Digital may be heading.
+Future collaborators want to understand working style, operating philosophy, and where VentureLayer Digital may be a good fit.
 
 Read first:
 
-- [Leadership Operating Style](../master-cv/07-leadership-operating-style.md)
-- [VentureLayer Labs](../projects/venturelayer-labs/overview.md)
-- [Website Roadmap](website-roadmap.md)
+- [Founder Story](../portfolio-content/founder-story.md)
+- [VentureLayer Credibility Page](../portfolio-content/venturelayer-credibility-page.md)
 - [Case Studies](../case-studies/)
 
 Questions this helps answer:
@@ -103,32 +99,29 @@ Questions this helps answer:
 - How does Lohan approach complex digital work?
 - What kinds of systems, products, and workflows are natural fits?
 - Where could collaboration produce value?
-- What public material can become portfolio pages, proposals, or capability narratives?
+- Which public proof themes support a credible first conversation?
 
 Best use:
 
 Use these sections to understand working style, collaboration fit, and the kinds of products, workflows, and operating models that are natural strengths.
 
-## Portfolio And Website Builders
+## Portfolio And Website Reviewers
 
-Portfolio and website builders need reusable source content that can become a polished VentureLayer Digital founder profile, capability pages, selected case studies, and structured project evidence.
+Portfolio and website reviewers need public-safe material that can inform polished VentureLayer Digital pages, capability summaries, selected case studies, and founder profile content.
 
 Read first:
 
 - [Publication Boundary](publication-boundary.md)
-- [Website Roadmap](website-roadmap.md)
-- [Content Schema](../governance/content-schema.md)
 - [Founder Profile](../portfolio-content/founder-profile.md)
 - [VentureLayer Credibility Page](../portfolio-content/venturelayer-credibility-page.md)
 - [Case Studies](../case-studies/)
 
 Questions this helps answer:
 
-- Which files are ready to become website pages?
-- Which content should become case-study cards or capability sections?
+- Which public themes are ready to inform website pages?
+- Which case studies and capabilities are strongest for public review?
 - How can the repo support a polished public portfolio and founder profile?
-- What sequence should guide the website build?
 
 Best use:
 
-Use these sections as source material for website pages, case-study cards, founder profile content, and VentureLayer Digital credibility copy.
+Use these sections as public-safe inputs for website pages, case-study cards, founder profile content, and VentureLayer Digital credibility copy.

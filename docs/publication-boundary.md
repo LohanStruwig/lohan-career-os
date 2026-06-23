@@ -4,12 +4,14 @@ category: Documentation
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # Publication Boundary
 
 This repository is public. It should read as a curated professional portfolio system, not as a raw career archive.
+
+Unlinked is still public. Any file that remains in this repository must be safe for public reading by direct URL, GitHub search, clone, and search-engine indexing.
 
 ## Safe Public Content
 
@@ -20,7 +22,7 @@ Appropriate public content includes:
 - capability narratives;
 - project summaries using public-safe context;
 - sanitized proof points;
-- high-level technical and operating-model notes;
+- high-level technical and operating-model notes that do not expose implementation details;
 - VentureLayer Digital portfolio material;
 - links already intended for public use.
 
@@ -29,9 +31,12 @@ Appropriate public content includes:
 Do not add:
 
 - passwords, tokens, private keys, `.env` values, or deployment secrets;
+- local file paths, usernames, machine names, branch names that reveal private workflow, or internal handoff prompts;
 - non-public customer, client, employer, or partner data;
 - private source datasets, raw exports, or unreviewed research files;
 - phone numbers, street addresses, personal identity documents, or personal identifiers;
+- exact locality beyond the intentionally public regional location;
+- table names, data models, access-control internals, unfinished control status, platform configuration details, or security probe details;
 - compensation, tax, medical, legal, or insurance documents;
 - confidential role-application material, interview notes, or role-specific outreach;
 - unreviewed master documents copied directly from local archives;
@@ -57,6 +62,9 @@ unreviewed company intelligence
 automated role-application system
 confidential client evidence
 unverified performance claims
+planned security controls
+partially integrated access model
+implementation-level architecture
 ```
 
 ## Evidence Gaps
@@ -72,6 +80,7 @@ Before publishing a new file or linking it from the README, use the full [Public
 - confirm the content is safe for public viewing;
 - remove credentials, private identifiers, and local configuration details;
 - avoid private employer, client, or customer material unless already public and intentionally cited;
+- avoid revealing exact locality, local paths, unfinished controls, table names, data models, or security-control implementation details;
 - use public-safe or synthetic examples for product proof;
 - keep claims grounded and reviewable;
 - do not convert missing artifacts into unsupported certainty;
@@ -89,4 +98,4 @@ Public readers should start with:
 - `case-studies/`
 - `capability-blocks/`
 
-Deeper folders such as `master-cv/`, `evidence-ledger/`, `resume-blocks/`, and `role-targeting/` are source material for structured review. They should be checked carefully before reuse outside this repository.
+Deeper source material should stay outside this public tree unless each file has been rewritten to the same public-safety standard as the curated files above.

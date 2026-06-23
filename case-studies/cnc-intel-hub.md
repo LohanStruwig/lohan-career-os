@@ -4,14 +4,14 @@ category: Case Study
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # CNC Intel Hub
 
 ## Executive Snapshot
 
-CNC Intel Hub is a vertical SaaS-style market and account research workspace developed through VentureLayer Labs for CNC/VMC industry review. It supports access-controlled company review, territory context, dealer/customer fit, evidence-backed research workflows, review signals, saved filters, and exportable PDF review summaries.
+CNC Intel Hub is a vertical SaaS-style market and account research workspace developed through VentureLayer Labs for CNC/VMC industry review. It supports authenticated workspace access, structured company review, territory context, evidence-backed research workflows, saved views, and exportable PDF review summaries.
 
 The work demonstrates founder-led product capability, governed workspace thinking, AI-assisted development, technical-commercial execution, data governance, workflow design, PDF reporting, research tooling, and delivery discipline.
 
@@ -20,7 +20,7 @@ The work demonstrates founder-led product capability, governed workspace thinkin
 - Domain: CNC/VMC market and account research
 - Role: Founder/product owner through VentureLayer Labs
 - Capability demonstrated: Governed research workspace design, AI-assisted product development, PDF reporting, data governance, and technical-commercial execution
-- Public-safe proof type: Product summary, workflow patterns, selected implementation themes, QA and delivery practices
+- Public-safe proof type: Product summary, workflow patterns, selected operating themes, QA and delivery practices
 
 ## Context
 
@@ -34,7 +34,7 @@ The challenge was to convert complex CNC/VMC market context into a usable resear
 
 ## Role
 
-Lohan directed the product through VentureLayer Labs as founder/product owner, shaping product scope, workspace workflow definition, feature prioritization, QA review, data governance, deployment discipline, import planning, and client-readiness decisions.
+Lohan directed the product through VentureLayer Labs as founder/product owner, shaping product scope, workspace workflow definition, feature prioritization, QA review, data governance, release discipline, and client-readiness decisions.
 
 ## Approach
 
@@ -44,26 +44,26 @@ The product approach centered on a practical market and account research workflo
 - connect territory context to product behavior
 - structure evidence-backed research
 - support search and filter behavior
-- model account-review signals such as evidence strength, VMC/customer fit, dealer channel fit, CNC/automation relevance, confidence, caveats, and review priority
+- model account-review signals at a public-safe summary level
 - preserve saved views
 - prepare browser-generated PDF review summaries
-- plan Supabase authentication, workspace membership, workspace-scoped data access, and RLS governance
-- use Python and PowerShell tooling for research preparation, import previews, review-model dry runs, validation, and guarded SQL workflows
-- run GitHub PR, Vercel preview, production smoke, access-control, PDF export, saved-filter, and browser QA checks
+- keep access, data visibility, and export behavior aligned with governed workspace expectations
+- use supporting tools for research preparation, review-model dry runs, validation, and release readiness
+- run structured QA checks before public or client-facing use
 - use AI-assisted planning and implementation support with human approval gates
 - keep QA and data governance visible throughout the workflow
 
-Technical fluency applied across React, TypeScript, Vite, CSS, lucide-react, Supabase JavaScript client, Vercel serverless API routes, GitHub PR workflow, pdf-lib, Python, PowerShell, PostgreSQL, SQL/import governance, and Cloudflare Turnstile-ready contact verification.
+Technical fluency is represented at the outcome level: authenticated workspace access, scoped data visibility, structured review workflows, browser-based reporting, governed data handling, release discipline, and human review.
 
 ## Capability Demonstrated
 
-This case study demonstrates product ownership, vertical market/account research systems, governed workspace design, AI-enabled workflow design, technical-commercial execution, data governance, PDF reporting, research workflow tooling, QA discipline, and GitHub/Vercel delivery cadence.
+This case study demonstrates product ownership, vertical market/account research systems, governed workspace design, AI-enabled workflow design, technical-commercial execution, data governance, PDF reporting, research workflow design, QA discipline, and delivery cadence.
 
-During an intensive build cycle, the project recorded approximately 500 commits in one month, reflecting sustained product-development momentum and iterative execution.
+During an intensive build cycle, the project reflected sustained product-development momentum and iterative execution.
 
 ## Evidence Basis
 
-This portfolio version is based on public-safe product summaries, operating patterns, selected implementation themes, and QA/delivery practices. It is intended to show the nature of the product work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
+This portfolio version is based on public-safe product summaries, operating patterns, selected workflow themes, and QA/delivery practices. It is intended to show the nature of the product work and capabilities demonstrated, not to represent an exhaustive archive of internal materials.
 
 ## Portfolio Use
 

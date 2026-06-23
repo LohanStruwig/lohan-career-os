@@ -4,7 +4,7 @@ category: Capability Block
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-23
 ---
 
 # Product And Platform Operations
@@ -16,8 +16,8 @@ Product and platform operations across lifecycle support, launch readiness, rele
 ## Evidence
 
 - Built operating readiness around platform access, metadata, ISBN tagging, entitlement logic, voucher redemption, eCommerce handoff, customer support, privacy-aware workflows, commercial reporting readiness, content readiness, QA, launch planning, and post-launch product improvement.
-- Defined CNC Intel Hub product scope around workspace access, filters, company review, public evidence, review signals, saved filters, exportable account review packets, and reusable territory views.
-- Guided product strategy, workflow definition, feature prioritization, QA review, deployment discipline, and client-readiness decisions.
+- Defined CNC Intel Hub product scope around workspace access, structured company review, public evidence, review signals, exportable account review packets, and reusable territory views.
+- Guided product strategy, workflow definition, feature prioritization, QA review, release discipline, and client-readiness decisions.
 
 ## Reusable Resume Language
 

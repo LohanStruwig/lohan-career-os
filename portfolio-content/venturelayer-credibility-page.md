@@ -4,7 +4,7 @@ category: Portfolio Content
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # VentureLayer Digital Credibility Page
@@ -73,13 +73,13 @@ Selected proof themes:
 - direct team leadership and cross-functional governance
 - executive AI enablement
 - B2B industrial market experience
-- CNC Intel Hub account-review workspace development
-- GitHub-based delivery discipline
+- CNC Intel Hub public product proof
+- visible delivery discipline
 - structured QA and human approval gates
 
 ## Public Portfolio Role
 
-This repository supports VentureLayer's public credibility layer. It organizes selected portfolio proof, founder profile content, capability blocks, technical fluency, and case studies into a structured source that can later become polished website pages, proposal content, and client-facing proof.
+This repository supports VentureLayer's public credibility layer. It organizes selected portfolio proof, founder profile content, capability blocks, and case studies into a structured source that can inform polished website pages, proposal content, and client-facing proof.
 
 ## Proof Path
 

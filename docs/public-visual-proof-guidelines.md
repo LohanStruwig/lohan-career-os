@@ -4,7 +4,7 @@ category: Documentation
 visibility: public
 resume_relevance: medium
 portfolio_relevance: high
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 ---
 
 # Public Visual Proof Guidelines
@@ -24,7 +24,7 @@ Visuals can help the portfolio feel more concrete, but they should be added only
 Good candidates:
 
 - public VentureLayer Digital website screenshots;
-- simple architecture or workflow diagrams built from public-safe labels;
+- simple workflow diagrams built from public-safe labels;
 - sanitized product-flow diagrams for CNC Intel Hub;
 - public-safe case-study summary cards;
 - generic operating-model diagrams that do not expose private systems;
