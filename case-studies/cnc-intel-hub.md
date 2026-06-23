@@ -46,14 +46,14 @@ The product approach centered on a practical market and account research workflo
 - support search and filter behavior
 - model account-review signals at a public-safe summary level
 - preserve saved views
-- prepare browser-generated PDF review summaries
+- prepare exportable PDF review summaries
 - keep access, data visibility, and export behavior aligned with governed workspace expectations
 - use supporting tools for research preparation, review-model dry runs, validation, and release readiness
 - run structured QA checks before public or client-facing use
 - use AI-assisted planning and implementation support with human approval gates
 - keep QA and data governance visible throughout the workflow
 
-Technical fluency is represented at the outcome level: authenticated workspace access, scoped data visibility, structured review workflows, browser-based reporting, governed data handling, release discipline, and human review.
+Technical fluency is represented at the outcome level: controlled workspace access, scoped data visibility, structured review workflows, reporting outputs, governed data handling, release discipline, and human review.
 
 ## Capability Demonstrated
 
