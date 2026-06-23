@@ -2,24 +2,68 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+.vscode/
+.idea/
 
 # Secrets and local environment
 .env
 .env.*
+.env.local
+.env.*.local
 *.key
 *.pem
 *.p12
 *.pfx
+*.crt
+*.cer
+.vercel/
+.supabase/
 
 # Local scratch
 scratch/
 private/
 _private/
+.local/
+prompts/private/
 tmp/
 temp/
 
 # Generated exports
 exports/
+reports/
+data/
+datasets/
+raw/
 dist/
 build/
 node_modules/
+
+# Logs and diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+playwright-report/
+test-results/
+coverage/
+
+# Data and research exports
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sqlite
+*.db
+*.dump
+*.backup
+*.bak
+*.har
+*.jsonl
+*.parquet
+
+# Generated documents that may contain private info
+*.pdf
+*.docx
+*.pptx
+
+# Reviewed public assets can be explicitly allowed later.

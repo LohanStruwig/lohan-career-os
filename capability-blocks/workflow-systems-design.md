@@ -4,7 +4,7 @@ category: Capability Block
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-23
 ---
 
 # Workflow Systems Design
@@ -18,7 +18,7 @@ Workflow systems design that clarifies how work moves through teams, tools, data
 - Built trackers, dashboards, risk registers, templates, workstreams, delivery flows, QA checkpoints, and stakeholder communication structures.
 - Designed a hybrid waterfall-agile operating model for the regional digital department.
 - Built early web-based application and call-center workflow systems.
-- Connects GitHub, AI-assisted workflows, deployment QA, data governance, and human approval gates in VentureLayer Labs.
+- Connects AI-assisted workflows, QA discipline, data governance, and human approval gates in VentureLayer Labs.
 
 ## Reusable Resume Language
 

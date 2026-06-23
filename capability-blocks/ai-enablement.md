@@ -4,7 +4,7 @@ category: Capability Block
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-23
 ---
 
 # AI Enablement

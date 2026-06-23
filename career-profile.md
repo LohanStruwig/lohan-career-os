@@ -4,7 +4,7 @@ category: Master Profile
 visibility: public
 resume_relevance: high
 portfolio_relevance: high
-last_updated: 2026-06-21
+last_updated: 2026-06-23
 ---
 
 # Career Profile
@@ -30,4 +30,4 @@ My background spans regional digital operations leadership, founder-led product 
 
 ## Public Contact Boundary
 
-This public profile uses city/state and public links only. Phone number, street address, and other sensitive personal details are intentionally excluded.
+This public profile uses a regional public location and public links only. Phone number, street address, and other sensitive personal details are intentionally excluded.
